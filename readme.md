@@ -1,11 +1,8 @@
-# What is CodeIgniter
+# PHPUnit integration with CodeIgniter
 
-CodeIgniter is an Application Development Framework - a toolkit - for people who build web sites using PHP. Its goal is to enable you to develop projects much faster than you could if you were writing code from scratch, by providing a rich set of libraries for commonly needed tasks, as well as a simple interface and logical structure to access these libraries. CodeIgniter lets you creatively focus on your project by minimizing the amount of code needed for a given task.
+This is an attempt of integrating PHPUnit with CodeIgniter. This provides a clean
+way of bootstrapping the framework and then performing tests on the Model layer. The
+use of very simple as it does not require any change in how a regular CodeIgniter
+application is built.
 
-# Resources
-
- * [User Guide](http://codeigniter.com/user_guide/)
- * [Community Forums](http://codeigniter.com/forums/)
- * [User Voice](http://codeigniter.uservoice.com/forums/40508-codeigniter-reactor)
- * [Community Wiki](http://codeigniter.com/wiki/)
- * [Community IRC](http://codeigniter.com/irc/)
+More details coming soon in a blog post.
